@@ -1,5 +1,8 @@
 use_default_settings: true
 
+server:
+  secret_key: "FER-IA-SearXNG-2026-Richard-9xK7mP4v"
+
 search:
   formats:
     - html
